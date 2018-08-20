@@ -1,0 +1,4 @@
+﻿  init.cpp
+e:\zju\texture\texture\init.cpp(19): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+  texture.vcxproj -> E:\ZJU\texture\Debug\texture.exe
+  texture.vcxproj -> E:\ZJU\texture\Debug\texture.pdb (Full PDB)
